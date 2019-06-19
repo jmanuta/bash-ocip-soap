@@ -1,0 +1,6 @@
+sysAdminUser="admin@domain.com"
+sysAdminPass="admin-password"
+protocol="http"
+xspAddress="xsp-address.com"
+xsiContextVersion="com.broadsoft.xsi-actions/v2.0"
+ociPath="webservice/services/ProvisioningService?wsdl"
