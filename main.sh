@@ -50,7 +50,7 @@ function loadConfig() {
 
 	Comment
 
-    source config
+	source config
 
 
 }
